@@ -146,4 +146,4 @@ A JSON file is generated containing:
 
 -If you use this code in research or benchmarking, please cite:
 
-https://github.com/nerdskingcom/gguf_benchmark, IMNECHO / Nerdsking.com
+https://github.com/nerdskingcom/gguf-humaneval-benchmark, IPMN/IMNECHO / Nerdsking.com
