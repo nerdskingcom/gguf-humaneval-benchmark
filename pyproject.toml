@@ -24,3 +24,10 @@ Citation = "https://github.com/nerdskingcom/gguf-humaneval-benchmark/blob/main/C
 
 [project.scripts]
 gguf-humaneval-benchmark = "gguf_humaneval_benchmark.cli:run"
+
+
+[tool.setuptools]
+packages = ["gguf_humaneval_benchmark", "gguf_humaneval_benchmark.eval_utils"]
+
+[tool.setuptools.package-data]
+"gguf_humaneval_benchmark.eval_utils" = ["bench_config.json"]
