@@ -1,0 +1,27 @@
+{
+  "models": {
+    "gguf_directory": "/home/x4245/gptoss_training/models",
+    "default_model": "nerdsking-python-coder-3B-i_Q8_0.gguf"
+  },
+  "benchmark": {
+    "samples": 164,
+    "timeout_seconds": 25,
+    "max_new_tokens_normal": 4096,
+    "max_new_tokens_thinking": 4096,
+    "start_timeout_seconds": 25,
+    "finish_timeout_seconds": 25,
+    "request_retries": 1,
+    "retry_multiplier": 2.0
+  },
+  "llama_cpp": {
+    "server_path": "/home/x4245/llama.cpp/build/bin",
+    "ctx_size": 4096,
+    "n_gpu_layers": 99,
+    "port": 8080,
+    "host": "127.0.0.1",
+    "temp": 0.0,
+    "mirostat": 2,
+    "cache_type_k": "f16",
+    "cache_type_v": "f16"
+  }
+}

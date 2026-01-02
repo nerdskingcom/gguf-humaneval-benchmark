@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gguf-humaneval-benchmark"
+version = "0.1.0"
+description = "Strict, auditable HumanEval benchmark for GGUF models via llama.cpp"
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [
+  { name = "IPMN/IMNECHO" }
+]
+requires-python = ">=3.10"
+dependencies = [
+  "requests",
+  "datasets"
+]
+
+[project.urls]
+Homepage = "https://nerdsking.com"
+Repository = "https://github.com/nerdskingcom/gguf-humaneval-benchmark"
+Citation = "https://github.com/nerdskingcom/gguf-humaneval-benchmark/blob/main/CITATION.cff"
+
+[project.scripts]
+gguf-humaneval-benchmark = "gguf_humaneval_benchmark.cli:run"

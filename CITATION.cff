@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Nerdsking GGUF HumanEval Benchmark for llama.cpp"
+message: "If you use this benchmark in academic work, please cite it."
+type: software
+authors:
+  - name: "IPMN/IMNECHO"
+website: "https://nerdsking.com"
+url: "https://github.com/nerdskingcom/gguf-humaneval-benchmark"
+repository-code: "https://github.com/nerdskingcom/gguf-humaneval-benchmark"
+license: "Apache-2.0"
+date-released: "2026-01-02"
+preferred-citation:
+  type: software
+  title: "GGUF HumanEval Benchmark for llama.cpp"
+  authors:
+    - name: "IPMN/IMNECHO"
+  year: 2026
+  url: "https://github.com/nerdskingcom/gguf-humaneval-benchmark"
