@@ -8,16 +8,17 @@ This project focuses on **correct execution semantics** and **reproducibility**:
 - Each task is executed using strict HumanEval semantics.
 - Full outputs and failure reasons are saved for auditing.
 
----
+<hr>
 
 ##  Install from PyPI
 pip install gguf-humaneval-benchmark
 
-##  Verify installation
+###  Verify installation
 gguf-humaneval-benchmark --help
 
 You should see the CLI help for the HumanEval benchmark runner.
 
+<hr>
 
 
 ## Key Features
