@@ -11,13 +11,11 @@ This project focuses on **correct execution semantics** and **reproducibility**:
 <hr>
 
 ##  Install from PyPI
-<code>
-pip install gguf-humaneval-benchmark
-</code>code>
+<code> pip install gguf-humaneval-benchmark </code>
+
 ####  Verify installation
-<code>
-gguf-humaneval-benchmark --help
-</code>
+<code> gguf-humaneval-benchmark --help </code>
+
 You should see the CLI help for the HumanEval benchmark runner.
 
 <hr>
