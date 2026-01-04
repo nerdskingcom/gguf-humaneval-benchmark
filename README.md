@@ -10,10 +10,10 @@ This project focuses on **correct execution semantics** and **reproducibility**:
 
 <hr>
 
-##  Install from PyPI
+##  How to install from PyPI:
 <code> pip install gguf-humaneval-benchmark </code>
 
-####  Verify installation
+####  After install, verify installation:
 <code> gguf-humaneval-benchmark --help </code>
 
 You should see the CLI help for the HumanEval benchmark runner.
