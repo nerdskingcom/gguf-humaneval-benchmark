@@ -142,6 +142,15 @@ A JSON file is generated containing:
 - Timing metrics
 
 
+---
+
+## License / citation
+
+-If you use this code in research or benchmarking, please cite:
+
+https://github.com/nerdskingcom/gguf-humaneval-benchmark, IPMN/IMNECHO / https://Nerdsking.com
+
+---
 ### ☕ Support
 
 If this project helped you, consider supporting my work:
@@ -150,10 +159,4 @@ https://patreon.com/Nerdsking?utm_medium=unknown&utm_source=join_link&utm_campai
 
 
 
----
 
-## License / citation
-
--If you use this code in research or benchmarking, please cite:
-
-https://github.com/nerdskingcom/gguf-humaneval-benchmark, IPMN/IMNECHO / https://Nerdsking.com
