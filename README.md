@@ -141,6 +141,15 @@ A JSON file is generated containing:
 - Error attribution
 - Timing metrics
 
+
+### ☕ Support
+
+If this project helped you, consider supporting my work:
+
+https://patreon.com/Nerdsking?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink
+
+
+
 ---
 
 ## License / citation
